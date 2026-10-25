@@ -1,4 +1,4 @@
-# CSV Cleanup Script — Portfolio Demo
+# CSV Cleanup Script
 
 ## What it demonstrates
 
